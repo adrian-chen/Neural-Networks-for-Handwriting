@@ -31,7 +31,7 @@ net.SGD(training_data, 60, mini_batch_size, 0.1,
     validation_data, test_data)
 ```
 
-## In this program, I utilize several established tools:
+## Tools for higher accuracy:
 Convolutional Neural Networks
 * Group together connected inputs. Ex: pixels near each other in a picture.
 
