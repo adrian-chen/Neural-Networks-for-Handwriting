@@ -5,6 +5,8 @@ Before attempting to run this code, [theano](http://deeplearning.net/software/th
 
 This code attempts to accurately train a model to recognize data from the MNIST handwriting dataset.
 
+My accuracy on the validation set is currently 98.99% and my accuracy on the test set is 98.91%
+
 The code can be run using:
 ```
 $ python train.py
